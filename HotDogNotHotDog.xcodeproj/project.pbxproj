@@ -13,6 +13,7 @@
 		9461A2B32755B0A800BB833A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9461A2B12755B0A800BB833A /* Main.storyboard */; };
 		9461A2B52755B0AD00BB833A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9461A2B42755B0AD00BB833A /* Assets.xcassets */; };
 		9461A2B82755B0AD00BB833A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9461A2B62755B0AD00BB833A /* LaunchScreen.storyboard */; };
+		9461A2C02755B83A00BB833A /* Inceptionv3 (1).mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 9461A2BF2755B83A00BB833A /* Inceptionv3 (1).mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9461A2B42755B0AD00BB833A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9461A2B72755B0AD00BB833A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9461A2B92755B0AD00BB833A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9461A2BF2755B83A00BB833A /* Inceptionv3 (1).mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = "Inceptionv3 (1).mlmodel"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				9461A2B42755B0AD00BB833A /* Assets.xcassets */,
 				9461A2B62755B0AD00BB833A /* LaunchScreen.storyboard */,
 				9461A2B92755B0AD00BB833A /* Info.plist */,
+				9461A2BF2755B83A00BB833A /* Inceptionv3 (1).mlmodel */,
 			);
 			path = HotDogNotHotDog;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				9461A2B02755B0A800BB833A /* ViewController.swift in Sources */,
 				9461A2AC2755B0A800BB833A /* AppDelegate.swift in Sources */,
 				9461A2AE2755B0A800BB833A /* SceneDelegate.swift in Sources */,
+				9461A2C02755B83A00BB833A /* Inceptionv3 (1).mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
